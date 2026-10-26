@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **ScentPass**
-Last updated: October 1, 2026
+Last updated: October 26, 2026
 
 ---
 
@@ -22,6 +22,7 @@ ScentPass is designed to collect only what is necessary to provide and improve t
 - Crash reports and performance diagnostics.
 - Device identifiers, such as an app instance ID and a notification token.
 - Approximate location (country or region), inferred from your IP address. We never access your precise location.
+- Estimated demographic and interest data (age range, gender, and interests), provided by Google signals only if you are signed in to a Google account and have Ads Personalization turned on. We only see this data as aggregated reports, never for an individual user.
 
 In guest mode, your olfactory profile and fragrance collection are stored on your device only.
 
@@ -44,7 +45,7 @@ Signing in is optional. The app's core features are accessible without an accoun
 - To publish your reviews and include your ratings in the community scores of each fragrance.
 - To moderate reviews and keep the community safe.
 - To send you notifications, if you allow them.
-- To understand how the app is used, fix errors, and improve features.
+- To understand how the app is used and who uses it in aggregate, fix errors, and improve features.
 
 **We do not sell your data. We do not share your data with advertisers or third parties for marketing purposes.**
 
@@ -78,7 +79,7 @@ ScentPass uses the following third-party services, which process data on our beh
 
 - **Supabase** — authentication and cloud data storage. [Privacy Policy](https://supabase.com/privacy).
 - **Google Sign-In** and **Sign in with Apple** — optional authentication. Governed by [Google's](https://policies.google.com/privacy) and [Apple's](https://www.apple.com/legal/privacy/) privacy policies.
-- **Firebase Analytics, Crashlytics, Cloud Messaging, and Remote Config (Google)** — usage analytics, crash reports, notifications, and app configuration. [Google Privacy Policy](https://policies.google.com/privacy).
+- **Firebase Analytics, Crashlytics, Cloud Messaging, and Remote Config (Google)** — usage analytics, crash reports, notifications, and app configuration. Google Analytics uses Google signals to produce aggregated demographic and interest reports. [Google Privacy Policy](https://policies.google.com/privacy).
 - **AI moderation service** — checks the text of reviews before they are published. It receives only the review text, not your identity.
 - **Fragella** — provides fragrance catalog data. No personal user data is shared with Fragella.
 
@@ -92,6 +93,7 @@ You have full control over your data at any time:
 - **Correction and deletion of reviews:** You can edit or delete any of your reviews.
 - **Account deletion:** You can delete your account from the app settings.
 - **Notifications:** You can turn off notifications in your device settings.
+- **Demographic and interest data:** You can turn off Ads Personalization in [My Ad Center](https://myadcenter.google.com/) and review or delete your Google activity in [My Activity](https://myactivity.google.com/).
 
 If you need assistance exercising any of these rights, contact us at scentpass.support@gmail.com.
 
